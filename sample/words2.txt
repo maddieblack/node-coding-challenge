@@ -1,0 +1,6 @@
+sun
+moon
+star
+day
+night
+dark
